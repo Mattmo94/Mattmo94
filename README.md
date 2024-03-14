@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mattmo94
-- 👀 I’m interested in Learning Software Development and I am opne to any help I am learning code through Youtube University and CS50.
+- 👀 I’m interested in Learning Software Development and I am open to any help I am learning code through Youtube University and CS50.
 - 🌱 I’m currently taking the CS50 course I am new to this but my goal ultimately make a career in Coding.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @ Matmoreno94@outlook.com
